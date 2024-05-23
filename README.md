@@ -1,7 +1,7 @@
-CRUD
+# CRUD
 Este es un proyecto en Laravel.
 
-Requisitos Previos
+# Requisitos Previos
 Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
  
  -PHP (preferiblemente PHP 8 o superior)
@@ -13,7 +13,7 @@ Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
  -nodejs
 
 
-INSTALACIÓN
+# INSTALACIÓN
 
 Sigue estos pasos para instalar el proyecto en tu sistema:
 
@@ -34,7 +34,7 @@ composer install
 php artisan migrate
 
 
-EJECUCIÓN
+# EJECUCIÓN
 
 Una vez que el proyecto esté instalado, puedes ejecutarlo localmente usando el servidor integrado de Laravel o cualquier otro servidor web compatible con PHP.
 
@@ -45,7 +45,7 @@ php artisan serve
 * Esto iniciará un servidor de desarrollo en http://localhost:8000, donde podrás ver tu aplicación.
 
 
-PRUEBAS
+# PRUEBAS
 
 Para ejecutar las pruebas del proyecto, utiliza el siguiente comando:
 
