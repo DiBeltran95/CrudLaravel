@@ -17,36 +17,36 @@ INSTALACIÓN
 
 Sigue estos pasos para instalar el proyecto en tu sistema:
 
-Clona el repositorio: Utiliza el siguiente comando para clonar este repositorio desde GitHub:
+* Clona el repositorio: Utiliza el siguiente comando para clonar este repositorio desde GitHub:
 
 git clone https://github.com/DiBeltran95/CrudLaravel
 
-Accede al directorio del proyecto: Navega al directorio del proyecto recién clonado:
+* Accede al directorio del proyecto: Navega al directorio del proyecto recién clonado:
 
 cd CrudLaravel-master
 
-Instala las dependencias de Composer: Ejecuta el siguiente comando para instalar las dependencias de PHP:
+* Instala las dependencias de Composer: Ejecuta el siguiente comando para instalar las dependencias de PHP:
 
 composer install
 
-Instala las dependencias de NPM (si es necesario): Si el proyecto utiliza JavaScript, ejecuta el siguiente comando para instalar las dependencias de Node.js:
+* Instala las dependencias de NPM (si es necesario): Si el proyecto utiliza JavaScript, ejecuta el siguiente comando para instalar las dependencias de Node.js:
 
 npm install
 
-Ejecuta las migraciones de la base de datos: Si el proyecto utiliza una base de datos, ejecuta las migraciones para crear las tablas necesarias:
+* Ejecuta las migraciones de la base de datos: Si el proyecto utiliza una base de datos, ejecuta las migraciones para crear las tablas necesarias:
 
 php artisan migrate
 
-Ejecución
+EJECUCIÓN
 Una vez que el proyecto esté instalado, puedes ejecutarlo localmente usando el servidor integrado de Laravel o cualquier otro servidor web compatible con PHP.
 
-Para iniciar el servidor de desarrollo de Laravel, ejecuta el siguiente comando desde la raíz del proyecto:
+*Para iniciar el servidor de desarrollo de Laravel, ejecuta el siguiente comando desde la raíz del proyecto:
 
 php artisan serve
 
-Esto iniciará un servidor de desarrollo en http://localhost:8000, donde podrás ver tu aplicación.
+*Esto iniciará un servidor de desarrollo en http://localhost:8000, donde podrás ver tu aplicación.
 
-Pruebas
+PRUEBAS
 Para ejecutar las pruebas del proyecto, utiliza el siguiente comando:
 
 php artisan test
