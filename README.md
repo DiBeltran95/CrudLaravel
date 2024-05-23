@@ -3,9 +3,13 @@ Este es un proyecto en Laravel.
 
 Requisitos Previos
 Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
+ 
  -PHP (preferiblemente PHP 8 o superior)
+ 
  -Composer
+ 
  -Un servidor de bases de datos compatible con Laravel (MySQL)
+ 
  -nodejs
 
 Instalación
