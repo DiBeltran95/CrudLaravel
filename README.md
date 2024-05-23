@@ -14,13 +14,13 @@ Este es un proyecto en Laravel.
 > [!IMPORTANT]
 > Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
  
- - PHP (preferiblemente PHP 8 o superior)
+ - PHP (preferiblemente PHP 8 o superior) <a href="https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe">XAMPP</a>
  
- - Composer
+ - Composer <a href="https://getcomposer.org/Composer-Setup.exe">Composer</a>
  
- - Un servidor de bases de datos compatible con Laravel (MySQL)
+ - Un servidor de bases de datos compatible con Laravel (MySQL) si instalas XAMP ya este lo incluye.
  
- - nodejs
+ - nodejs  <a href="https://nodejs.org/dist/v20.13.1/node-v20.13.1-x64.msi">NodeJS</a>
 
 
 # INSTALACIÓN
