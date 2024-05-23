@@ -14,11 +14,11 @@ Sigue estos pasos para instalar el proyecto en tu sistema:
 
 Clona el repositorio: Utiliza el siguiente comando para clonar este repositorio desde GitHub:
 
-git clone https://github.com/usuario/nombre-proyecto.git
+git clone https://github.com/DiBeltran95/CrudLaravel
 
 Accede al directorio del proyecto: Navega al directorio del proyecto recién clonado:
 
-cd prueba-perfil1
+cd CrudLaravel-master
 
 Instala las dependencias de Composer: Ejecuta el siguiente comando para instalar las dependencias de PHP:
 
