@@ -33,7 +33,9 @@ composer install
 
 php artisan migrate
 
+
 EJECUCIÓN
+
 Una vez que el proyecto esté instalado, puedes ejecutarlo localmente usando el servidor integrado de Laravel o cualquier otro servidor web compatible con PHP.
 
 *Para iniciar el servidor de desarrollo de Laravel, ejecuta el siguiente comando desde la raíz del proyecto:
