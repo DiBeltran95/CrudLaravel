@@ -12,7 +12,8 @@ Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
  
  -nodejs
 
-Instalación
+
+INSTALACIÓN
 
 Sigue estos pasos para instalar el proyecto en tu sistema:
 
