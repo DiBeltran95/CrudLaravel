@@ -69,6 +69,6 @@ php artisan test
 ![Captura1](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/dcdb014a-dadc-4e60-bd83-a662e98838ad)
 
 # CRUD Empleado
-<p align="center"> <img src="https://github.com/DiBeltran95/CrudLaravel/assets/31999241/706304aa-386e-438d-a532-0f37ed3f34e2" width="700" alt="Laravel Logo"> </p>
+<p align="center"> <img src="https://github.com/DiBeltran95/CrudLaravel/assets/31999241/706304aa-386e-438d-a532-0f37ed3f34e2" width="700"> </p>
 
 
