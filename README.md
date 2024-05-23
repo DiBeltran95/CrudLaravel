@@ -39,18 +39,18 @@ php artisan migrate
 Una vez que el proyecto esté instalado, puedes ejecutarlo localmente usando el servidor integrado de Laravel o cualquier otro servidor web compatible con PHP.
 
 * Para iniciar el servidor de desarrollo de Laravel, ejecuta el siguiente comando desde la raíz del proyecto:
-
+```
 php artisan serve
-
+```
 * Esto iniciará un servidor de desarrollo en http://localhost:8000, donde podrás ver tu aplicación.
 
 
 # PRUEBAS
 
 Para ejecutar las pruebas del proyecto, utiliza el siguiente comando:
-
+```
 php artisan test
-
+```
 # Vista Empleado
 ![Captura1](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/dcdb014a-dadc-4e60-bd83-a662e98838ad)
 
