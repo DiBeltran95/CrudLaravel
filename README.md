@@ -50,3 +50,7 @@ PRUEBAS
 Para ejecutar las pruebas del proyecto, utiliza el siguiente comando:
 
 php artisan test
+
+# Vista Empleado
+![Captura1](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/dcdb014a-dadc-4e60-bd83-a662e98838ad)
+
