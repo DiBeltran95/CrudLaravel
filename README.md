@@ -1,3 +1,12 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
+
 # CRUD
 Este es un proyecto en Laravel.
 
@@ -60,6 +69,6 @@ php artisan test
 ![Captura1](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/dcdb014a-dadc-4e60-bd83-a662e98838ad)
 
 # CRUD Empleado
-![Laravel - Perfil 1_ Microsoft_ Edge 2024-05-23 08-15-55](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/706304aa-386e-438d-a532-0f37ed3f34e2)
+<p align="center">![Laravel - Perfil 1_ Microsoft_ Edge 2024-05-23 08-15-55](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/706304aa-386e-438d-a532-0f37ed3f34e2)</p>
 
 
