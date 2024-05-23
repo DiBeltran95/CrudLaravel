@@ -2,7 +2,8 @@
 Este es un proyecto en Laravel.
 
 # Requisitos Previos
-Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
+> .[!IMPORTANTE]
+> Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
  
  -PHP (preferiblemente PHP 8 o superior)
  
