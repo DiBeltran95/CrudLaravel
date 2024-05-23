@@ -18,9 +18,9 @@ Antes de empezar, asegúrate de tener instalado lo siguiente en tu sistema:
 Sigue estos pasos para instalar el proyecto en tu sistema:
 
 * Clona el repositorio: Utiliza el siguiente comando para clonar este repositorio desde GitHub:
-
+'''
 git clone https://github.com/DiBeltran95/CrudLaravel
-
+'''
 * Accede al directorio del proyecto: Navega al directorio del proyecto recién clonado:
 
 cd CrudLaravel-master
