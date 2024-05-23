@@ -29,10 +29,6 @@ cd CrudLaravel-master
 
 composer install
 
-* Instala las dependencias de NPM (si es necesario): Si el proyecto utiliza JavaScript, ejecuta el siguiente comando para instalar las dependencias de Node.js:
-
-npm install
-
 * Ejecuta las migraciones de la base de datos: Si el proyecto utiliza una base de datos, ejecuta las migraciones para crear las tablas necesarias:
 
 php artisan migrate
