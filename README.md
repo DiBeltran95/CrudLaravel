@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# CRUD
-Este es un proyecto en Laravel.
+# GESTION DE EMPLEADOS
+Prueba de Conocimientos para Desarrollador de Software PERFIL1
 
 # Requisitos Previos
 > [!IMPORTANT]
