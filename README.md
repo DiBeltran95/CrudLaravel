@@ -44,7 +44,9 @@ php artisan serve
 
 *Esto iniciará un servidor de desarrollo en http://localhost:8000, donde podrás ver tu aplicación.
 
+
 PRUEBAS
+
 Para ejecutar las pruebas del proyecto, utiliza el siguiente comando:
 
 php artisan test
