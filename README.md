@@ -54,3 +54,6 @@ php artisan test
 # Vista Empleado
 ![Captura1](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/dcdb014a-dadc-4e60-bd83-a662e98838ad)
 
+# Actualizar, Buscar y Eliminacion de datos
+![Laravel - Perfil 1_ Microsoft_ Edge 2024-05-23 08-09-11](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/14349665-3f5f-4182-bf00-d3d3a8408a62)
+
