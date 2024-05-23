@@ -38,11 +38,11 @@ EJECUCIÓN
 
 Una vez que el proyecto esté instalado, puedes ejecutarlo localmente usando el servidor integrado de Laravel o cualquier otro servidor web compatible con PHP.
 
-*Para iniciar el servidor de desarrollo de Laravel, ejecuta el siguiente comando desde la raíz del proyecto:
+* Para iniciar el servidor de desarrollo de Laravel, ejecuta el siguiente comando desde la raíz del proyecto:
 
 php artisan serve
 
-*Esto iniciará un servidor de desarrollo en http://localhost:8000, donde podrás ver tu aplicación.
+* Esto iniciará un servidor de desarrollo en http://localhost:8000, donde podrás ver tu aplicación.
 
 
 PRUEBAS
