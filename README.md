@@ -61,10 +61,16 @@ Para ejecutar las pruebas del proyecto, utiliza el siguiente comando:
 ```
 php artisan test
 ```
-# Vista Empleado
+# Vista Departamentos
+![Captura2](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/bf9a2fc4-8bbb-4efa-926a-5244084c8dcf)
+
+# CRUD Departamentos
+<p align="center"> <img src="https://github.com/DiBeltran95/CrudLaravel/assets/31999241/bb174f32-0d6e-4e35-987c-113fe94148c8" width="700"> </p>
+
+# Vista Empleados
 ![Captura1](https://github.com/DiBeltran95/CrudLaravel/assets/31999241/dcdb014a-dadc-4e60-bd83-a662e98838ad)
 
-# CRUD Empleado
+# CRUD Empleados
 <p align="center"> <img src="https://github.com/DiBeltran95/CrudLaravel/assets/31999241/706304aa-386e-438d-a532-0f37ed3f34e2" width="700"> </p>
 
 
