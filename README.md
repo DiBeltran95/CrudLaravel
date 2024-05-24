@@ -39,14 +39,14 @@ cd CrudLaravel-master
 ```
 composer install
 ```
-* Ejecuta las migraciones de la base de datos: Si el proyecto utiliza una base de datos, ejecuta las migraciones para crear las tablas necesarias:
+* Ejecuta las migraciones de la base de datos: Hay que modificar el archivo .env en la raíz del proyecto, en el cual hay que poner las credenciales de la base de datos, luego ejecuta las migraciones para crear la base de datos:
 ```
 php artisan migrate
 ```
 
 # EJECUCIÓN
 
-Una vez que el proyecto esté instalado, hay que modificar el archivo .env en la raíz del proyecto, en el cual hay que poner las credenciales de la base de datos, luego de esto se puede ejecutar localmente, teniendo encuenta que debe tener encendido XAMP o cualquier otro servidor que tenga php y MySQL.
+Una vez que el proyecto esté instalado, puede ejecutar localmente, teniendo encuenta que debe tener encendido XAMP o cualquier otro servidor que tenga php y MySQL.
 
 * Para iniciar el servidor de desarrollo de Laravel, ejecuta el siguiente comando desde la raíz del proyecto:
 ```
